@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Controle.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IpServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.19.215.201</Value>
+    </Setting>
+    <Setting Name="dataSourceDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">xw*y+u$+.w/</Value>
+    </Setting>
+    <Setting Name="usuarioDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.++0</Value>
+    </Setting>
+    <Setting Name="senhaDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Y*:X#KGKMI)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

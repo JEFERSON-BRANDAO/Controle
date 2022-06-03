@@ -1,0 +1,9 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\bin\Debug\Controle.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\obj\x86\Debug\Controle.FormEtrega.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\obj\x86\Debug\Controle.Properties.Resources.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\obj\x86\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\obj\x86\Debug\Controle.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\obj\x86\Debug\Controle.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Controle\Controle\obj\x86\Debug\Controle.csprojResolveAssemblyReference.cache
